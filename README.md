@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @viniciusueharaweb
-- 🌱 I’m currently learning NextJS!
-- 💞️ I’m looking to collaborate on any Open Sources
-- 📫 How to reach me twitter.com/vnsUehara
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
