@@ -5,10 +5,10 @@ I am Vinicius Uehara, a passionate self-taught (with help of many kind people) w
 
 ## Quick overview
 * GitHub stats:  
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusueharaweb&hide=stars&show_icons=true&theme=react" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusueharaweb&layout=compact&theme=react" alt="My github stats" />
 </a>  
 
