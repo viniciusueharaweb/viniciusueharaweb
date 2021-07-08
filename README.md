@@ -4,15 +4,13 @@
 I am Vinicius Uehara, a passionate self-taught (with help of many kind people) web developer from the Brazil, with focus on the user experience. Open Source enthusiast. Currently looking for my first job opportunity as a Frontend Developer! 
 
 ## Quick overview
-* GitHub stats:  
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusueharaweb&hide=stars&show_icons=true&theme=react" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusueharaweb&layout=compact&theme=react" alt="My github stats" />
-</a>  
+* GitHub stats:
+\
+\
+[![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusueharaweb&hide=stars&show_icons=true&theme=react)](https://github.com/viniciusueharaweb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusueharaweb&layout=compact&theme=react)](https://github.com/viniciusueharaweb/github-readme-stats)
 
-## Technologies and Skills
+## 🛠 Technologies and Skills
 
 <a name="tech-tools"></a>
 
@@ -55,8 +53,6 @@ I am Vinicius Uehara, a passionate self-taught (with help of many kind people) w
 &nbsp;
 [<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=1DA1F2" alt="Twitter logo" title="Twitter" height="25" />](https://twitter.com/vnsUehara)
 
-[![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusueharaweb&hide=stars&show_icons=true&theme=react)](https://github.com/viniciusueharaweb)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusueharaweb&layout=compact&theme=react)](https://github.com/viniciusueharaweb/github-readme-stats)
 
 [tech_tools_anchor]: #tech-tools
 [learning_now_anchor]: #learning-now
