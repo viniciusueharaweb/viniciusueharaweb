@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 
-I am Vinicius Uehara, a passionate self-taught (with help of many kind people) web developer from the Brazil, with focus on the user experience. Open Source enthusiast. Currently looking for my first job opportunity as a Frontend Developer! 
+I am Vinicius Uehara, a passionate self-taught (with help of many kind people) web developer from the Brazil, with focus on user experience. Open Source enthusiast. Currently looking for my first job opportunity as a Frontend Developer! 
 
 ## Quick overview
 * GitHub stats:
