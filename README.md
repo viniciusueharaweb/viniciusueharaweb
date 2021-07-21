@@ -45,6 +45,10 @@ I am Vinicius Uehara, a passionate self-taught (with help of many kind people) w
 &nbsp;
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2391E6" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=D8008A" alt="GraphQL logo" title="GraphQL" height="25" />][tech_tools_anchor]
+&nbsp;
 
 ## 🔍  Where to find me
 
