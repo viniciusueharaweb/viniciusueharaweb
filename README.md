@@ -7,7 +7,7 @@ I am Vinicius Uehara, a passionate self-taught (with help of many kind people) w
 * GitHub stats:
 \
 \
-[![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusueharaweb&hide=stars&show_icons=true&theme=react)](https://github.com/viniciusueharaweb)
+[![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusueharaweb&hide=stars&show_icons=true&theme=react&count_private=true)](https://github.com/viniciusueharaweb)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusueharaweb&layout=compact&theme=react)](https://github.com/viniciusueharaweb/github-readme-stats)
 
 ## 🛠 Technologies and Skills
