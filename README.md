@@ -38,16 +38,23 @@ I am Vinicius Uehara, a passionate self-taught (with help of many kind people) w
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-
-## 📖  What I am currently learning / improving on
-
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 &nbsp;
+
+## 📖  What I am currently learning / improving on
+
+
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2391E6" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=D8008A" alt="GraphQL logo" title="GraphQL" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=E80E12" alt="Ruby logo" title="Ruby" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Rails-282C34?logo=rubyonrails&logoColor=E80E12" alt="Ruby on Rails logo" title="Rails" height="50" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PostgresQL-282C34?logo=postgresql&logoColor=31648C" alt="PostgresQL logo" title="PostgresQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=000000" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
 &nbsp;
 
 ## 🔍  Where to find me
