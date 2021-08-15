@@ -50,7 +50,7 @@ I am Vinicius Uehara, a passionate self-taught (with help of many kind people) w
 &nbsp;
 [<img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=E80E12" alt="Ruby logo" title="Ruby" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Rails-282C34?logo=rubyonrails&logoColor=E80E12" alt="Ruby on Rails logo" title="Rails" height="50" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Rails-282C34?logo=rubyonrails&logoColor=E80E12" alt="Ruby on Rails logo" title="Rails" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/PostgresQL-282C34?logo=postgresql&logoColor=31648C" alt="PostgresQL logo" title="PostgresQL" height="25" />][tech_tools_anchor]
 &nbsp;
